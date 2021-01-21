@@ -3,7 +3,8 @@
 Here, you can find example testing data for the ACLF-JM application (https://predictionmodels.shinyapps.io/aclf-jm/).
 
 You can use the column names and data properties as template for your own longitudinal data.
-Of note: only the time_of_measurement and meldna columns vary over time (per row). The other columns should have the same variable for each row.
+
+**Of note: only the time_of_measurement and meldna columns vary over time (per row). The other columns should have the same variable for each row.**
 
 Instructions:
 - In the ID column: enter a random ID number (e.g. 1).
