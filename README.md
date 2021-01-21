@@ -3,6 +3,7 @@
 Here, you can find example testing data for the ACLF-JM application (https://predictionmodels.shinyapps.io/aclf-jm/).
 
 You can use the column names and data properties as template for your own longitudinal data.
+
 Instructions:
 - In the ID column: enter a random ID number (e.g. 1).
 - In the time_of_measurement column: set the day of measurement, e.g. if you followed a patient from day 0 (start measurements) to day 50 (current date). 
