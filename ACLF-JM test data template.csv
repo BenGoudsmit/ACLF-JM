@@ -1,4 +1,4 @@
-id,time_of_measurement,meldna,time_of_follow_up,death,age,femalesex,cirrhosis_present,aclf_grade,sbp_present,life_support_dependent
+id,time_of_measurement,meldna,time_of_last_measurement,death,age,femalesex,cirrhosis_present,aclf_grade,sbp_present,life_support_dependent
 1,0,27,51,0,50,0,0,ACLF-1,0,0
 1,5,24,51,0,50,0,0,ACLF-1,0,0
 1,6,24,51,0,50,0,0,ACLF-1,0,0
