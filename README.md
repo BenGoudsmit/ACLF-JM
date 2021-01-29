@@ -1,6 +1,7 @@
 # ACLF-JM
 
 Here, you can find example testing data for the ACLF-JM application (https://predictionmodels.shinyapps.io/aclf-jm/).
+Download the "ACLF-JM test data template.csv" file as a template (see above).
 
 You can use the column names and data properties as template for your own longitudinal data.
 
